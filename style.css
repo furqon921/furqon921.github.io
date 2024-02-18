@@ -3,4 +3,9 @@ body {
     background-color: rgb(184, 184, 244);
     padding: 20px;
     text-align: center;
+    font-size: 25px;
+}
+
+h3 {
+    background-color: lightgreen;
 }
