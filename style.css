@@ -9,3 +9,7 @@ body {
 h3 {
     background-color: lightgreen;
 }
+
+img {
+    width: 100%;
+}
